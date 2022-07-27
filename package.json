@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/xbarnamaj.lwc-l63qftki-fork-l63refs8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve VsGzaqvLsX2FOKR4GmiL --open"
+  }
+}
